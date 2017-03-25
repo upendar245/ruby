@@ -1,2 +1,3 @@
 #!/bin/ruby
-puts(`uname -r`)
+puts("process list")
+puts(`cat /proc/cpuinfo| grep proc`)
