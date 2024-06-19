@@ -1,7 +1,7 @@
 #/usr/bin/ruby
-class Ramya
+class testclass
 def self.nature
 puts "arrogant"
 end
 end
-Ramya.nature
+testclass.nature
